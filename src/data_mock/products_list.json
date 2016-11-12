@@ -1,0 +1,29 @@
+[{
+		"id": 0,
+		"name": "Apple",
+		"price": 0.25,
+		"baseCurrency": "USD",
+		"inPromotion": false
+	},
+    {
+		"id": 1,
+		"name": "Orange",
+		"price": 0.30,
+		"baseCurrency": "USD",
+		"inPromotion": false
+	},
+    {
+		"id": 2,
+		"name": "Banana",
+		"price": 0.15,
+		"baseCurrency": "USD",
+		"inPromotion": false
+	},
+    {
+		"id": 3,
+		"name": "Papaya",
+		"price": 0.50,
+		"baseCurrency": "USD",
+		"inPromotion": true
+	}
+]
