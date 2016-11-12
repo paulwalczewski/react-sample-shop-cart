@@ -12,7 +12,7 @@ const Cart = ({products, totalAmount}) => {
             }
             </ul>
             <p>
-                Total amount: {totalAmount}
+                Total amount: {totalAmount} USD
             </p>
         </div>
     )

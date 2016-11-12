@@ -17,7 +17,7 @@ class App extends Component {
         this.state = {
             cart: {
                 productsInCart: [],
-                totalAmount: '0'
+                totalAmount: '0.00'
             },
             productsList: productsData
         };
